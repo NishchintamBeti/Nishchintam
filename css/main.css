@@ -80,3 +80,40 @@
      padding-top: 20px;
      z-index: 1;
  }
+.button123 {
+  background-color: #4CAF50; /* Green */
+  border: none;
+  color: rgb(183, 202, 5);
+  padding: 16px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin: auto;
+  transition-duration: 0.4s;
+  cursor: pointer;
+  display: inline-block;
+  margin-left: 4%;
+  margin-bottom: 2%;
+}
+
+.button1234 {
+  background-color: rgba(4, 228, 253, 0.721); 
+  color: black; 
+  border: 2px solid #000000;
+}
+
+.button1234:hover {
+  background-color: white;
+  color: black;
+}
+.button5 {
+  background-color: rgba(253, 195, 4, 0.721); 
+  color: black; 
+  border: 2px solid #000000;
+}
+
+.button5:hover {
+  background-color: white;
+  color: black;
+}
