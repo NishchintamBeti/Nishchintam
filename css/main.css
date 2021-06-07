@@ -25,8 +25,8 @@
     font-size: 18px;
     border: none;
     outline: none;
-    background-color: #90EE90;
-    color: black;
+    background-color: #452158;
+    color: rgb(255, 255, 255);
     cursor: pointer;
     padding: 15px;
     border-radius: 4px;
@@ -98,7 +98,7 @@
 }
 
 .button1234 {
-  background-color: rgba(4, 228, 253, 0.721); 
+  background-color: #84b7c2;; 
   color: black; 
   border: 2px solid #000000;
 }
@@ -108,7 +108,7 @@
   color: black;
 }
 .button5 {
-  background-color: rgba(253, 195, 4, 0.721); 
+  background-color: #c1949b; 
   color: black; 
   border: 2px solid #000000;
 }
